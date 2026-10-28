@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "local-instance": {
+      "command": "powershell",
+      "args": ["-c", "osk.exe"],
+      "disabled": false,
+      "autoApprove": ["*"],
+      "disabledTools": ["none"]
+    }
+  }
+}
